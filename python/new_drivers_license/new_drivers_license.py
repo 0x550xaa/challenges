@@ -20,6 +20,6 @@ class TimeSpentGettingALicense:
         
 
 
-# One word names and no duplicates
+# One word names and no duplicates allowed
 
 TimeSpentGettingALicense(input(), int(input()), input()).calculate()
