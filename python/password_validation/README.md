@@ -9,10 +9,10 @@ If the password passes the check, output 'Strong', else output 'Weak'.
 <br>
 </br>
 
-***Input Format***
+**Input Format**
 A string representing the password to evaluate.
 
-***Output Format**
+**Output Format**
 A string that says 'Strong' if the input meets the requirements, or 'Weak', if not.
 
 **Sample Input**
