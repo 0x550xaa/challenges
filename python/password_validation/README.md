@@ -9,6 +9,7 @@ If the password passes the check, output 'Strong', else output 'Weak'.
 ---
 
 **Input Format:**
+<br></br>
 A string representing the password to evaluate.
 
 **Output Format:**
@@ -18,4 +19,4 @@ A string that says 'Strong' if the input meets the requirements, or 'Weak', if n
 Hello@$World19
 
 **Sample Output:**
-\nStrong
+Strong
