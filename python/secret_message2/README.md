@@ -11,8 +11,8 @@ Characters ("j" to "z") are represented by ("10#" to "26#").
 
 ## Examples
 
-decrypt("10#11#12") ➞ "jkab"
+"10#11#12" ➞ "jkab"
 
-decrypt("1326#") ➞ "acz"
+"1326#" ➞ "acz"
 
-decrypt("25#") ➞ "y"
+"25#" ➞ "y"
