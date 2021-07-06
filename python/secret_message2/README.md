@@ -9,7 +9,7 @@ Characters ("j" to "z") are represented by ("10#" to "26#").
 
 ---
 
-## Examples
+**Examples**
 
 "10#11#12" ➞ "jkab"
 
