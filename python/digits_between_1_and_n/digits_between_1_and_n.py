@@ -7,3 +7,6 @@ class Problem:
         for x in range(1, self.n):
             i += len(str(x))
         return i
+
+
+Problem(input()).solve()
