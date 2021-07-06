@@ -6,7 +6,7 @@ There are 0 digits between 0 and 1, there are 9 digits between 0 and 10 and ther
 
 ---
 
-## Examples
+**Examples**
 
 digits(1) ➞ 0
 
@@ -16,6 +16,6 @@ digits(100) ➞ 189
 
 digits(2020) ➞ 6969
 
-## Notes
+**Notes**
 
 The numbers are going to be rather big so creating that string won't be practical.
